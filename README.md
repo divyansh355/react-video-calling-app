@@ -2,7 +2,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://iili.io/JYP61Ax.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/JYP61Ax.png" alt="project-screenshot"/">
 
   
   
